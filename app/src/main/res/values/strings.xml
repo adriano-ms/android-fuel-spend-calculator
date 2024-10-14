@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FuelSpendCalculator</string>
+    <string name="txt_name">Adriano Maciel Sanchez</string>
+    <string name="txt_ra">1110482313018</string>
+    <string name="et_average">Average fuel spend (km/L)</string>
+    <string name="et_tank">Fuel in the tank (L)</string>
+    <string name="txt_result">meters to out of fuel</string>
+    <string name="bt_calculate">Calculate</string>
+</resources>
